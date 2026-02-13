@@ -1,1 +1,184 @@
+### The Party Count (How many are there?)
+|Total_parties|
+|-------------|
+| 175 |
+
+### All The party 
+- Party_deataled
+- 6 Million Jobs
+- Alaskan Independence Party
+- Alliance
+- America First
+- America First Populist
+- America'S Independent Party
+- America'S Party
+- American
+- American Constitution Party
+- American Delta Party
+- American Independent
+- American Independent Party
+- American Party Of Iowa
+- American Shopping Party
+- American Solidarity
+- American Solidarity Party
+- American Third Position
+- Anderson Coalition
+- Approval Voting
+- Approval Voting Party
+- Becoming One Nation
+- Better For America
+- Better Life
+- Big Deal Party
+- Boiling Frog
+- Boston Tea Party
+- Bread And Roses
+- Bull Moose
+- C.U.P
+- Campaign For A New Tomorrow
+- Christian Freedom Party
+- Citizens
+- Citizens First
+- Communist Party Use
+- Concerned Citizens
+- Concerns Of People
+- Conservative
+- Constitution
+- Constitution Party
+- Constitution Party Of Florida
+- Constitutional Government
+- Consumer
+- D.C. Statehood Green
+- Dc Statehood Green
+- Democrat
+- Democrat/Republican
+- Democratic-Farmer-Labor
+- Down With Lawyers
+- Ecology Party Of Florida
+- Equal Justice And Opportunity
+- Free Libertarian
+- Freedom
+- Freedom And Prosperity
+- Freedom For Larouche
+- Geneology Know Your Family History Party
+- Grassroots
+- Green
+- Green-Rainbow
+- Grumpy Old Patriots
+- Heartquake '08
+- Human Rights
+- Independence
+- Independent
+- Independent American
+- Independent American Party
+- Independent Grassroots
+-  Independent Green
+- Independent Nomination
+- Independent People Of Colorado
+- Independent Voters
+- Independents For Economic Recovery
+- Independents For Larouche
+- Industrial Government Party
+- International Development Bank
+- Justice
+- Justice, Industry, And Agriculture
+- Kotlikoff For President
+- Labor
+- Labor-Farm-Laborista-Agrario
+- Larouche For President Party
+- Legal Marijuana Now
+- Liberal Party
+- Libertarian
+- Liberty Union
+- Liberty Union Party
+- Liberty, Ecology, Community
+- Life , Liberty, Constitution
+- Life And Liberty Party
+- Looking Back Party
+- Louisiana Taxpayers Party
+- Mccarthy '76
+- Middle Class Candidate
+- More Perfect Democracy
+- Mountain Party
+- National Economic Recovery
+- National Unity
+- National Unity Campaign
+- Natural Law
+- Natural People'S League
+- Nebraska Party
+- New
+- New Alliance
+- New Independent Party Iowa
+- New Mexico Independent Party
+- No Party Affiliation
+- Nominated By Petition
+ - Non-Affilated
+- Non-Affiliated
+- Non-Afiliated
+- Non-Partisan
+- Nonpartisan
+- Nonviolent Resistance/Pacifist
+- Nsa Did 911
+- Nutrition Party
+- Objectivist Party
+ - Other
+- Pacific Green
+- Party For Socialism And Liberation
+- Patriot Party
+ - patriotic Party
+- Peace & Freedom
+- Peace And Justice
+- Peace Party
+- People'S
+- Personal Choice
+- Petitioning Candidate
+- Populist
+- Progressive
+- Progressive Party
+- Progressive/Green
+- Prohibition
+- Prohibition Party
+- Protecting Working Families
+- Reform Party
+- Reform Party Minnesota
+- Republican
+- Respect For Life
+- Right-To-Life
+- Ron Daniels Independent
+- Socialism And Liberation Party
+- Socialist
+- Socialist Equality Party
+- Socialist Labor
+- Socialist Party Of Florida
+- Socialist Party Usa
+- Socialist U.S.A.
+- Socialist Workers
+- Socialist Workers Party
+- Solidarity
+- Statesman
+- Taxpayers Party
+- The Birthday Party
+- Third Party
+- Third World Assembly
+- Tisch Independent Citizens
+- U.S. Labor
+- U.S. Pacifist Party
+ - U.S. Taxpayers Party
+- Unaffiliated
+- Unenrolled
+ - United Citizens
+ - United Sovereign Citizens
+ - Unity Party
+ - Us Taxpayers Party
+ - Vermont Grassroots
+ - Veterans Party Of America
+ - Vote Here
+ - We The People
+ - Wisconsin Green
+ - Women'S Equality
+ - Workers League
+ - Workers World
+ - Workers World Party
+ - Working Families
+ - Write-In
+
 
