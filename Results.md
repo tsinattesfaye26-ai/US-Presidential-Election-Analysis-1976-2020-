@@ -20,3 +20,5 @@ year |	yearly_total	| vote_increase |
 2020	| 158528503	| 21741316
 
 
+
+
