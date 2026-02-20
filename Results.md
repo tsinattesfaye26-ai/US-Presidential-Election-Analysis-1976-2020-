@@ -90,7 +90,8 @@ These states have voted Democratic in every election from 1992 through 2020, and
 - Massachusetts
 - Illinois
 - Maryland
-These are considered strong Democratic strongholds.
+
+These are considered strong Democratic strongholds
 
 ### 🔴 Consistently Republican States (Since 1980 without flipping)
 Some of the most loyal Republican states include:
