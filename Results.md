@@ -100,3 +100,71 @@ Some of the most loyal Republican states include:
 - Utah
 - Idaho
 - Wyoming
+# Q5  How many votes did Democrats and Republicans receive in each state? 2020 
+
+| State       | Democratic Votes | Republican Votes | Total Major Votes | Dem %  | Rep %  |
+|------------|-----------------|----------------|-----------------|--------|--------|
+| California | 11,110,250      | 6,006,429      | 17,116,679      | 64.9%  | 35.1%  |
+| Texas      | 5,259,126       | 5,890,347      | 11,149,473      | 47.2%  | 52.8%  |
+| Florida    | 5,297,045       | 5,668,731      | 10,965,776      | 48.3%  | 51.7%  |
+| New York   | 5,244,886       | 3,251,997      | 8,496,883       | 61.7%  | 38.3%  |
+| Pennsylvania | 3,458,229     | 3,377,674      | 6,835,903       | 50.6%  | 49.4%  |
+| Illinois   | 3,471,915       | 2,446,891      | 5,918,806       | 58.7%  | 41.3%  |
+| Ohio       | 2,679,165       | 3,154,834      | 5,833,999       | 45.9%  | 54.1%  |
+| Michigan   | 2,804,040       | 2,649,852      | 5,453,892       | 51.4%  | 48.6%  |
+
+**insight** 
+# Q6 How many votes went to non-major parties (OTHER) per state?
+| State      | Other Votes | % of Total State Vote | Total State Votes |
+|-----------|------------|---------------------|-----------------|
+| California | 384,202    | 2.20%               | 17,500,881      |
+| Illinois   | 114,938    | 1.90%               | 6,033,744       |
+| Florida    | 101,680    | 0.92%               | 11,067,456      |
+| Colorado   | 87,993     | 2.70%               | 3,256,952       |
+| Georgia    | 62,229     | 1.25%               | 4,997,716       |
+| Indiana    | 61,186     | 2.02%               | 3,033,121       |
+| Arizona    | 53,497     | 1.58%               | 3,387,326       |
+| Arkansas   | 34,490     | 2.83%               | 1,219,069       |
+| Iowa       | 34,138     | 2.02%               | 1,690,871       |
+| Alabama    | 32,488     | 1.40%               | 2,323,282       |
+
+#  Q7 Which states have the highest number of write-in votes?
+| State                | Total Write-ins | Latest Record Year |
+|---------------------|----------------|-----------------|
+| District of Columbia | 357,024        | 2020            |
+| California           | 195,192        | 2020            |
+| Washington           | 135,057        | 2020            |
+| North Carolina       | 104,855        | 2020            |
+| Texas                | 97,154         | 2020            |
+| Virginia             | 71,028         | 2020            |
+| Maryland             | 71,013         | 2020            |
+| Minnesota            | 69,581         | 2020            |
+| Alabama              | 40,997         | 2020            |
+| Indiana              | 39,105         | 2020            |
+
+#  Q8 How many votes did each candidate receive by state?
+| State       | Joe Biden (D) | Donald Trump (R) | Jo Jorgensen (L) | Howie Hawkins (G) |
+|------------|---------------|-----------------|-----------------|-----------------|
+| California | 11,110,250    | 6,006,429       | 187,895         | 81,029          |
+| Texas      | 5,259,126     | 5,890,347       | 126,243         | 33,396          |
+| Florida    | 5,297,045     | 5,668,731       | 70,324          | 14,721          |
+| New York   | 5,244,886     | 3,251,997       | 60,383          | 32,832          |
+| Illinois   | 3,471,915     | 2,446,891       | 38,484          | 15,605          |
+| Pennsylvania | 3,458,229   | 3,377,674       | 79,380          | —               |
+| Ohio       | 2,679,165     | 3,154,834       | 67,569          | 18,812          |
+| Georgia    | 2,473,633     | 2,461,854       | 62,229          | —               |
+| Michigan   | 2,804,040     | 2,649,852       | 60,371          | 13,718          |
+| Arizona    | 1,672,143     | 1,661,686       | 51,465          | —               |
+
+#  Q9  Did the winning party change in any state across election years?
+| State      | 2012 Winner  | 2016 Winner  | 2020 Winner  | 2024 Winner  | Total Flips |
+|-----------|-------------|-------------|-------------|-------------|-------------|
+| Arizona   | Republican  | Republican  | Democratic  | Republican  | 2           |
+| Georgia   | Republican  | Republican  | Democratic  | Republican  | 2           |
+| Michigan  | Democratic  | Republican  | Democratic  | Republican  | 3           |
+| Pennsylvania | Democratic | Republican | Democratic  | Republican  | 3           |
+| Wisconsin | Democratic  | Republican  | Democratic  | Republican  | 3           |
+| Florida   | Democratic  | Republican  | Republican  | Republican  | 1           |
+| Ohio      | Democratic  | Republican  | Republican  | Republican  | 1           |
+| Nevada    | Democratic  | Democratic  | Democratic  | Republican  | 1           |
+
