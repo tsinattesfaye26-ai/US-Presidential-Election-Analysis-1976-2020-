@@ -48,7 +48,7 @@ SELECT
     SUM(CASE WHEN party_simplified NOT IN ('DEMOCRAT', 'REPUBLICAN') THEN candidatevotes ELSE 0 END) AS total_third_party_votes,
     -- Calculating the share of the total national vote
     ROUND(
-        SUM(CASE WHEN party_simplified NOT IN ('DEMOCRAT', 'REPUBLICAN') THEN candidatevotes ELSE 0 END) * 100.0 / 
+        SUM(CASE WHEN party_simplified NOT IN ('DEMOCRAT', 'REPUBLICAN') THEN candidatevotes ELSE 0 END) * 100.0 /
         SUM(candidatevotes), 2
     ) AS third_party_share_percentage
 FROM  usa.president_elections
@@ -80,7 +80,7 @@ JOIN RankedVotes r2
     AND r1.state = r2.state
 WHERE r1.vote_rank = 1 AND r2.vote_rank = 2
 ORDER BY year DESC, vote_margin ASC;
--- Q5  How many votes did Democrats and Republicans receive in each state?
+-- Q5  How many votes did Democrats and Republicans receive in each state
 SELECT 
     year, 
     state,
