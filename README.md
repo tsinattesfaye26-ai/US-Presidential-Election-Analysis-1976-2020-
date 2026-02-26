@@ -12,3 +12,7 @@ Standardization: Corrected truncated state names and standardized party naming c
 Space Removal: Used the TRIM() function to remove trailing and leading spaces that interfere with SQL groupings
 Handling Blanks: Identified and cleared placeholder text (like "null" or "nun") to ensure MySQL correctly recognized missing values as NULL.
 Data Typing: Formatted columns to ensure candidatevotes and totalvotes were imported as integers for mathematical analysis.
+# The Goal:
+To transform raw, multi-decade election data into a structured MySQL database and a Power BI dashboard that reveals how the American political map has "shifted" between 1976 and 2020
+Voter Turnout Trends: 
+Analyzed the correlation between total votes cast and candidate performance over 44 years
