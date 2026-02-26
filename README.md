@@ -14,5 +14,5 @@ Handling Blanks: Identified and cleared placeholder text (like "null" or "nun") 
 Data Typing: Formatted columns to ensure candidatevotes and totalvotes were imported as integers for mathematical analysis.
 # The Goal:
 To transform raw, multi-decade election data into a structured MySQL database and a Power BI dashboard that reveals how the American political map has "shifted" between 1976 and 2020
-Voter Turnout Trends: 
+## Voter Turnout Trends 
 Analyzed the correlation between total votes cast and candidate performance over 44 years
